@@ -8,3 +8,5 @@ Projeto de campo minado, onde é possível abrir, marcar e desmarcar campo, alé
 Mensagem ao perder o jogo, também podemos ver que é possível selecionar se deseja continuar ou não.
 
 ![image](https://user-images.githubusercontent.com/73704621/213163599-2d81f1b5-1cbd-45e9-a0d9-7c93bf62a45b.png)
+
+Mensagem ao ganhar a partida.
